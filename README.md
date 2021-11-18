@@ -1,2 +1,2 @@
 # py-scripts
-All my python projects.
+All my python scripts.
